@@ -6,7 +6,7 @@ public class Main {
 	// write your code here
         /*
         TEST完了!
-        ここに名前を書いてね!
+        ここに名前を書いてね?!
          */
 
     }
